@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+attendance.db
+model.yml
+labels.json
+Images/*
+!Images/.gitkeep
